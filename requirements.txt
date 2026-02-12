@@ -1,0 +1,12 @@
+django
+djangorestframework
+psycopg2-binary
+redis
+django-redis
+celery[redis]
+django-filter
+faker
+python-dotenv
+drf-spectacular
+pytest
+pytest-django
